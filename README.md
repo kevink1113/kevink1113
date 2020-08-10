@@ -1,4 +1,4 @@
-<img src="./KSWW.gif">
+<img src="https://github.com/kevink1113/kevink1113/blob/master/KSWW.gif?raw=true">
 
 <h1>Stay hungry.<br>Stay foolish.</h1>
 <h3>This is my life moto.<br>I hope to find a better me and society through 'Developing'.</h3>
