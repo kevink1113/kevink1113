@@ -7,7 +7,7 @@
   - [강상원의 IT 블로그](https://kevink1113.tistory.com)
 
 - 🌱 Current Status:
-  - 🏫 Undergraduate student of [Computer Science and Engineering](http://cs.sogang.ac.kr/cs/index_new.html), Sogang University 
+  - 🏫 Undergraduate student of [Computer Science and Engineering, Sogang University](http://cs.sogang.ac.kr/cs/index_new.html)
   - 🎈 Staff of [Sogang ICPC Team](https://acm.sogang.ac.kr)
   - 🐧 Member of [Release](http://release.sogang.ac.kr)
  
