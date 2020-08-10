@@ -1,6 +1,6 @@
 ### Hi, I'm SangWon Kang. 👋
 
-👨‍💻 You can find more information about me on my profile page. ➡️ [Profile Page](https://kevink1113.github.io/profile)
+- 👨‍💻 You can find more information about me on my profile page. ➡️ [Profile Page](https://kevink1113.github.io/profile)
 
 - 🖋 Here is my personal blog.
 [강상원의 IT 블로그](https://kevink1113.tistory.com)
