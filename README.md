@@ -1,3 +1,5 @@
+<img src="./KSWW.gif">
+
 <h1>Stay hungry.<br>Stay foolish.</h1>
 <h3>This is my life moto.<br>I hope to find a better me and society through 'Developing'.</h3>
 <br>
