@@ -20,7 +20,7 @@
   - Member of [🐧 Release](http://release.sogang.ac.kr)
  
 - 📬 Contact Me:
-  - kevink1113@hanmail.net
+  - kevink1113@u.sogang.ac.kr
 <!--
 **kevink1113/kevink1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
