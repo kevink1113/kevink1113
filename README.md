@@ -7,6 +7,8 @@
 -->
 <h3>This is my life moto.<br>I hope to find a better me and society through 'Developing'.</h3>
 
+- Baekjoon OJ solved.ac status : <br><br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kevink1113)](https://solved.ac/kevink1113)  
 
 - 👨‍💻 You can find more information about me on my profile page.
   - [Profile Page](https://kevink1113.github.io/profile)
@@ -22,8 +24,6 @@
 - 📬 Contact Me:
   - kevink1113@u.sogang.ac.kr
   
-- Baekjoon OJ solved.ac status : <br><br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kevink1113)](https://solved.ac/kevink1113)  
 <!--
 **kevink1113/kevink1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
