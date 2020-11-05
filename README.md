@@ -4,7 +4,7 @@
 <!-- 원래 파일
 <img src="https://raw.githubusercontent.com/kevink1113/kevink1113/master/WWW3.gif">
 -->
-[![Profile page](https://raw.githubusercontent.com/kevink1113/kevink1113/master/WWW3.gif)](https://kevink1113.github.io/profile) 
+[![Profile page](https://raw.githubusercontent.com/kevink1113/kevink1113/master/WWW3.gif)](https://kevink1113.com) 
 
 <!--
 <h1>Stay hungry.<br>Stay foolish.</h1>
@@ -12,7 +12,7 @@
 <h3>This is my life moto.<br>I hope to find a better me and society through 'Developing'.</h3> 
 
 - 👨‍💻 You can find more information about me on my profile page.
-  - [Profile Page](https://kevink1113.github.io/profile)
+  - [Profile Page](https://kevink1113.com)
 
 - 🖋 Here is my personal blog.
   - [강상원의 IT 블로그](https://kevink1113.tistory.com)
