@@ -21,6 +21,7 @@
   - Undergraduate student of [🏫 Computer Science and Engineering, Sogang University](http://cs.sogang.ac.kr/cs/index_new.html)
   - Member of [🎈 Sogang ICPC Team](https://acm.sogang.ac.kr) (former staff)
   - Member of [🐧 Release](http://release.sogang.ac.kr)
+  - Member of [🍷 soMLier]()
  
 - 📬 Contact Me:
   - kevink1113@u.sogang.ac.kr
