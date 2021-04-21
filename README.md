@@ -27,7 +27,7 @@
   - kevink1113@u.sogang.ac.kr
   
 - ✅ Baekjoon OJ solved.ac status : <br><br>
-![Solved.ac 프로필](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=kevink1113)
+[![Solved.ac 프로필](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=kevink1113)](https://solved.ac/profile/kevink1113)
 <!--
 **kevink1113/kevink1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
