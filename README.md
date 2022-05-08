@@ -25,7 +25,7 @@
   - Staff of [🍷 soMLier]()
  
 - 📬 Contact Me:
-  - kevink1113@u.sogang.ac.kr
+  - me@kevink1113.com
   
 - ✅ Baekjoon OJ solved.ac status : <br><br>
 [![Solved.ac 프로필](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=kevink1113)](https://solved.ac/profile/kevink1113)
