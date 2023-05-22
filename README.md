@@ -19,7 +19,6 @@
 
 - 🌱 Current Status:
   - Undergraduate student of [🏫 Computer Science and Engineering, Sogang University](http://cs.sogang.ac.kr/cs/index_new.html)
-  - Serving as 🎖️ROK Army interpreter(English) @ 2nd Operations Command
   - Member of [🎈 Sogang ICPC Team](https://acm.sogang.ac.kr) (former staff)
   - Member of [🐧 Release](http://release.sogang.ac.kr)
   - Staff of [🍷 soMLier]()
